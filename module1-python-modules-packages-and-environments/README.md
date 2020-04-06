@@ -1,6 +1,6 @@
 # Python Modules, Packages, and Environments
 
-Places for your code (and dependencies) to live.
+https://test.pypi.org/project/get-google-news/
 
 ## Learning Objectives
 
